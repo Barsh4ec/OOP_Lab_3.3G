@@ -1,0 +1,16 @@
+﻿  Account.cpp
+C:\Users\taras\source\repos\OOP_Lab_3.3G\OOP_Lab_3.3G\Account.cpp(63,39): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\taras\source\repos\OOP_Lab_3.3G\OOP_Lab_3.3G\Account.cpp(278,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\taras\source\repos\OOP_Lab_3.3G\OOP_Lab_3.3G\Account.cpp(308,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\taras\source\repos\OOP_Lab_3.3G\OOP_Lab_3.3G\Account.cpp(338,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\taras\source\repos\OOP_Lab_3.3G\OOP_Lab_3.3G\Account.cpp(435,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\taras\source\repos\OOP_Lab_3.3G\OOP_Lab_3.3G\Account.cpp(451,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\taras\source\repos\OOP_Lab_3.3G\OOP_Lab_3.3G\Account.cpp(468,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\taras\source\repos\OOP_Lab_3.3G\OOP_Lab_3.3G\Account.cpp(489,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\taras\source\repos\OOP_Lab_3.3G\OOP_Lab_3.3G\Account.cpp(503,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Money.cpp
+C:\Users\taras\source\repos\OOP_Lab_3.3G\OOP_Lab_3.3G\Money.cpp(120,51): warning C4804: '<': unsafe use of type 'bool' in operation
+  Object.cpp
+  Source.cpp
+  Generating Code...
+  OOP_Lab_3.3G.vcxproj -> C:\Users\taras\source\repos\OOP_Lab_3.3G\Debug\OOP_Lab_3.3G.exe
